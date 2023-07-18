@@ -1,0 +1,20 @@
+body{
+	background-color: powderblue;
+}
+
+
+.heading{
+	font-family:Times New Roman;
+	font-size: 50px;
+	color: blue;
+	margin-top:150px;
+}
+
+
+#picture{
+	height: 300px;
+	width: 250px;
+	opacity: 100%;
+	border-radius: 5%;
+}
+
